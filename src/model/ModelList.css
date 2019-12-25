@@ -1,0 +1,25 @@
+.list-style{
+    display:flex;
+    line-height:40px;
+    padding:0 1rem;
+    margin:0;
+    list-style:none;
+}
+.list-name-style{
+    width: 100%;
+}
+.list-address-style{
+    flex:0 0 100px;
+    color: #656565;
+}
+.list-time-style{
+    flex:0 0 100px;
+    text-align:right;
+    color: #656565;
+}
+.link-style{
+    color: #3490dc;
+    text-decoration: none;
+    background-color: transparent;
+
+}
